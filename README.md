@@ -1,3 +1,17 @@
+# Progress
+- [x] Puzzle #1
+- [ ] Puzzle #2
+- [ ] Puzzle #3
+- [ ] Puzzle #4
+- [ ] Puzzle #5
+- [ ] Puzzle #6
+- [ ] Puzzle #7
+- [ ] Puzzle #8
+- [ ] Puzzle #9
+- [ ] Puzzle #10
+- [ ] Puzzle #11
+- [ ] Puzzle #12
+
 # Triton Puzzles
 
 w/ Tejas Ramesh and [Keren Zhou](https://www.jokeren.tech/) based on [Triton-Viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
