@@ -1,7 +1,7 @@
 # Progress
 - [x] Puzzle #1
 - [x] Puzzle #2
-- [ ] Puzzle #3
+- [x] Puzzle #3
 - [ ] Puzzle #4
 - [ ] Puzzle #5
 - [ ] Puzzle #6
