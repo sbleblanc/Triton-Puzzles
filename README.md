@@ -3,7 +3,7 @@
 - [x] Puzzle #2
 - [x] Puzzle #3
 - [x] Puzzle #4
-- [ ] Puzzle #5
+- [x] Puzzle #5
 - [ ] Puzzle #6
 - [ ] Puzzle #7
 - [ ] Puzzle #8
