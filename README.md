@@ -2,7 +2,7 @@
 - [x] Puzzle #1
 - [x] Puzzle #2
 - [x] Puzzle #3
-- [ ] Puzzle #4
+- [x] Puzzle #4
 - [ ] Puzzle #5
 - [ ] Puzzle #6
 - [ ] Puzzle #7
