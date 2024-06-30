@@ -6,7 +6,8 @@
 - [x] Puzzle #5
 - [x] Puzzle #6
 - [x] Puzzle #7
-- [ ] Puzzle #8
+- [x] Puzzle #8
+- [ ] Puzzle #8 - 2 loops
 - [ ] Puzzle #9
 - [ ] Puzzle #10
 - [ ] Puzzle #11
